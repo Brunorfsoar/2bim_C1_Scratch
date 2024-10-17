@@ -1,3 +1,4 @@
+Curso Alura 1º bimestre 2024 SP -
 Crie um jogo completo com animações, controles, sons e placar;
 Utilize a biblioteca do p5.js para aperfeiçoar o seu jogo;
 Conheça e implemente a linguagem JavaScript no seu código;
